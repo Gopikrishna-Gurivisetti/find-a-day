@@ -1,6 +1,6 @@
 {
   "name": "find-a-day",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "find a day which is given date-of-birth",
   "main": "index.cjs",
   "type": "commonjs",
