@@ -1,0 +1,25 @@
+{
+  "name": "find-a-day",
+  "version": "1.0.1",
+  "description": "find a day which is given date-of-birth",
+  "main": "index.cjs",
+  "type": "commonjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gopikrishna-Gurivisetti/find-a-day.git"
+  },
+  "keywords": [
+    "find a day",
+    "find date-of-birth",
+    "birth day"
+  ],
+  "author": "Gopikrishna Gurivisetti",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Gopikrishna-Gurivisetti/find-a-day/issues"
+  },
+  "homepage": "https://github.com/Gopikrishna-Gurivisetti/find-a-day#readme"
+}
